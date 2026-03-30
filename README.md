@@ -114,6 +114,11 @@ The training script prints validation metrics (accuracy and F1 score) each time 
 
 ---
 
+## 🚀 Live Demo
+
+🔗 View Live Application (https://telecomnetworkfail.netlify.app/)
+
+---
 
 ## 👤 Author
 Irfan Khalid
