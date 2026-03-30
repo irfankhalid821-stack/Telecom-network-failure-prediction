@@ -52,7 +52,7 @@ telecom-failure-prediction/
 
 ## ⚙️ Installation
 
-git clone https://github.com/irfankhalid821-stack
+git clone https://telecomnetworkfail.netlify.app/
 
 cd telecom-failure-prediction
 
