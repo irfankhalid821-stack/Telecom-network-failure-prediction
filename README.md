@@ -49,12 +49,6 @@ telecom-failure-prediction/
 
 ---
 
-## 📸 Dashboard Preview
-> Add your screenshot at assets/dashboard.png after running Streamlit locally.
-
-![Dashboard](assets/dashboard.png)
-
----
 
 ## ⚙️ Installation
 
@@ -114,15 +108,6 @@ The training script prints validation metrics (accuracy and F1 score) each time 
 
 ---
 
-## ✅ Ready-to-Post GitHub Checklist
-- [x] Clear README
-- [x] Reproducible training script
-- [x] API + dashboard
-- [x] Dependency file + ignore rules
-- [ ] Add assets/dashboard.png screenshot
-- [ ] Push repository to GitHub
-
----
 
 ## 👤 Author
 Irfan Khalid
